@@ -1,0 +1,2 @@
+Each task has one separate branch
+Fork - To copy some one repository to another repository
